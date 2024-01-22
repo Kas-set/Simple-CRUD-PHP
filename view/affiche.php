@@ -10,7 +10,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="./index.php">Ajouter un nouvel utilisateur</a>
+    <a href="./index.php">Ajouter Un nouvel utilisateur</a>
     <?php
     if(isset( $_GET['msg'])){
         echo"
